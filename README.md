@@ -5,13 +5,13 @@ Credit Card Transaction and Customer Dashboard using Power BI
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 
-3. Import data to SQL database 
-1. Prepare csv file into UTF-8 format
-2. Create database / tables in SQL
-3. import UTF-8 file into SQL
+3. Import data to SQL database:-
+Prepare csv file into UTF-8 format
+Create database / tables in SQL
+Import UTF-8 file into SQL
 
 
-3. Imported data into Power BI to perform DAX Queries:
+3. Imported SQL data into Power BI to perform DAX Queries:
 DAX:
 Revenue = SUM('Credit Card Details'|Total_Trans_Amt]) + SUM('Credit Card Details'[Annual _Fees]) + SUM('Credit Card
 Details'[Interest_Earned])
@@ -60,11 +60,11 @@ Project Insights for Week 53 (31st Dec):-
 Week On Week change:
 Revenue increased by 28.8%,
 Total Transaction Amt & Count increased by xx% & xx%
-* Customer count increased by xx%
+Customer count increased by xx%
 Overview YTD:
-* Overall revenue is 57M
+Overall revenue is 57M
 Total interest is 8M
-* Total transaction amount is 46M
+Total transaction amount is 46M
 Male customers are contributing more in revenue 31M, female 26M
 Blue & Silver credit card are contributing to 93% of overall transactions
 TX, NY & CA is contributing to 68% Overall Activation rate is 57.5% Overall Delinquent rate is 6.06%
