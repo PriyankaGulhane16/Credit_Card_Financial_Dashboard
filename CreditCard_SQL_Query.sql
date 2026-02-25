@@ -1,4 +1,7 @@
----Create Table cc_add---
+create database CreditCard_DB
+
+
+---Create Table cc_detail---
 
 create table cc_detail(
     Client_Num INT,
@@ -47,5 +50,6 @@ CREATE TABLE cust_detail (
 select count(*) from cc_detail;
 select  count(*) from cust_detail;
 
+---Added another weekly data after dashboard creation through import/export---
 
 
