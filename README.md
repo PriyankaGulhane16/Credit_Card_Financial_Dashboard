@@ -16,7 +16,7 @@ DAX:
 Revenue = SUM('Credit Card Details'|Total_Trans_Amt]) + SUM('Credit Card Details'[Annual _Fees]) + SUM('Credit Card
 Details'[Interest_Earned])
 
-DAX:
+3.1 DAX:
 Age_Group =
 SWITCH
 TRUE(),
@@ -27,47 +27,48 @@ TRUE(),
 'Customer Details'[Customer_Age] ≥= 60, "60+",
 "Unknown")
 
-DAX:
+3.2 DAX:
 IncomeGroup = 
 SWITCH(TRUE(), 
      'public cust_detail'[income] < 3500, "Low", 
      'public cust_detail'[income] >= 3500 && 'public cust_detail'[income] < 70000, "Medium",       
      'public cust_detail'[income] >= 70000, "High", "Unknown")
 
-DAX:
+3.3 DAX:
 WeekNum = WEEKNUM('public cc_detail'[week_start_date])
 
-DAX:
+3.4 DAX:
 Current_week_revenue = CALCULATE(
     SUM('public cc_detail'[Revenue]),
     FILTER(
         All('public cc_detail'),'public cc_detail'[WeekNum] = MAX('public cc_detail'[WeekNum])))
 
 
-DAX:
+3.5 DAX:
 previous_week_revenue = CALCULATE(
     SUM('public cc_detail'[Revenue]),
    FILTER(
         ALL('public cc_detail'), 'public cc_detail'[WeekNum] = MAX('public cc_detail'[WeekNum]) -1))
 
-DAX:
+3.6 DAX:
 WeekOnweek_revenue = DIVIDE(
     ([Current_week_revenue] - [previous_week_revenue]), [previous_week_revenue])
 
 
 
-Project Insights for Week 53 (31st Dec):-
-Week On Week change:
-Revenue increased by 28.8%,
-Total Transaction Amt & Count increased by xx% & xx%
-Customer count increased by xx%
-Overview YTD:
-Overall revenue is 57M
-Total interest is 8M
-Total transaction amount is 46M
-Male customers are contributing more in revenue 31M, female 26M
-Blue & Silver credit card are contributing to 93% of overall transactions
-TX, NY & CA is contributing to 68% Overall Activation rate is 57.5% Overall Delinquent rate is 6.06%
+4. Project Insights for Week 53 (31st Dec):-
+4.1 Week On Week change
+-Revenue increased by 28.8%,
+-Total Transaction Amt & Count increased by xx% & xx%
+-Customer count increased by xx%
+
+4.2 Overview YTD:
+-Overall revenue is 57M
+-Total interest is 8M
+-Total transaction amount is 46M
+-Male customers are contributing more in revenue 31M, female 26M
+-Blue & Silver credit card are contributing to 93% of overall transactions
+-TX, NY & CA is contributing to 68% Overall Activation rate is 57.5% Overall Delinquent rate is 6.06%
 
 
 
