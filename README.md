@@ -191,11 +191,9 @@ Week-on-Week Change
 
 Revenue increased by 28.8% compared to the previous week
 
-Total Transaction Amount increased by XX%
+Total Transaction Amt & Count increased by 35% & 3.4%
 
-Total Transaction Count increased by XX%
-
-Customer Count increased by XX%
+Customer Count increased by 12.8%
 
 This indicates strong year-end spending behavior and higher customer engagement during the final week of the year.
 
