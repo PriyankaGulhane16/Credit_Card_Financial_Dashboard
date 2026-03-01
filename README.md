@@ -269,8 +269,11 @@ Overall Activation Rate: 57.5%
 
 Overall Delinquent Rate: 6.06%
 
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/fd2f0dfd-5a34-4332-b304-a1af58cecbe7" />
 
-![Uploading image.png…]()
+
+
+
 
 
 
