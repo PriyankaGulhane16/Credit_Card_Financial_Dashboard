@@ -108,6 +108,14 @@ SUM('Credit Card Details'[Total_Trans_Amt]) +
 SUM('Credit Card Details'[Annual_Fees]) +
 SUM('Credit Card Details'[Interest_Earned])
 
+Revenue =
+SUM('Credit Card Details'[Total_Trans_Amt]) +
+SUM('Credit Card Details'[Annual_Fees]) +
+SUM('Credit Card Details'[Interest_Earned])
+Revenue =
+SUM('Credit Card Details'[Total_Trans_Amt]) +
+SUM('Credit Card Details'[Annual_Fees]) +
+SUM('Credit Card Details'[Interest_Earned])
 🔹 Age Group (Calculated Column)
 Age_Group =
 SWITCH(
@@ -162,48 +170,6 @@ DIVIDE(
     [Previous_week_revenue]
 )
 
-📊 Dashboard
-
-The Power BI dashboard includes:
-
-KPI Cards (Revenue, Interest, Transactions, Customer Count)
-
-Weekly Revenue Trend (Line Chart)
-
-Revenue by Gender (Bar Chart)
-
-Revenue by State (Map Visualization)
-
-Card Category Contribution (Donut Chart)
-
-Age & Income Segmentation (Stacked Charts)
-
-Week-on-Week Growth Indicator
-
-The dashboard is fully interactive with slicers for:
-
-Week
-
-Card Category
-
-Gender
-
-State
-
-
-📈 Results & Insights
-
-Identified revenue contribution by demographic groups
-
-Analyzed weekly revenue growth trends
-
-Measured activation and delinquency rates
-
-Found key revenue-contributing states
-
-Evaluated high-performing card categories
-
-The analysis enables stakeholders to monitor operational KPIs and make data-driven decisions.
 
 
 
@@ -269,7 +235,10 @@ Overall Activation Rate: 57.5%
 
 Overall Delinquent Rate: 6.06%
 
+
+📊 Dashboard
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/fd2f0dfd-5a34-4332-b304-a1af58cecbe7" />
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/d44e59b3-c169-44b9-ac19-ce3ff47febc4" />
 
 
 
