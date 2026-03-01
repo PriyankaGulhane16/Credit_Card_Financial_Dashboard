@@ -108,14 +108,7 @@ SUM('Credit Card Details'[Total_Trans_Amt]) +
 SUM('Credit Card Details'[Annual_Fees]) +
 SUM('Credit Card Details'[Interest_Earned])
 
-Revenue =
-SUM('Credit Card Details'[Total_Trans_Amt]) +
-SUM('Credit Card Details'[Annual_Fees]) +
-SUM('Credit Card Details'[Interest_Earned])
-Revenue =
-SUM('Credit Card Details'[Total_Trans_Amt]) +
-SUM('Credit Card Details'[Annual_Fees]) +
-SUM('Credit Card Details'[Interest_Earned])
+
 🔹 Age Group (Calculated Column)
 Age_Group =
 SWITCH(
