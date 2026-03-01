@@ -194,7 +194,9 @@ Week-on-Week Change
 
 Revenue increased by 28.8% compared to the previous week
 
-Total Transaction Amt & Count increased by 35% & 3.4%
+Total Transaction Amount increased by 35%
+
+Total Transaction Count increased by 3.4%
 
 Customer Count increased by 12.8%
 
