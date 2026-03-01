@@ -229,9 +229,7 @@ Overall Activation Rate: 57.5%
 Overall Delinquent Rate: 6.06%
 
 
-📊 Dashboard
-<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/fd2f0dfd-5a34-4332-b304-a1af58cecbe7" />
-<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/d44e59b3-c169-44b9-ac19-ce3ff47febc4" />
+📊 Dashboard<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/fd2f0dfd-5a34-4332-b304-a1af58cecbe7" /> <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/d44e59b3-c169-44b9-ac19-ce3ff47febc4" />
 
 
 
