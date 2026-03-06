@@ -7,6 +7,12 @@ This project demonstrates an end-to-end Data Analytics workflow — from raw dat
 The objective was to analyze credit card transactions and customer data to generate actionable business insights such as revenue trends, customer segmentation, and week-on-week performance metrics
 
 
+📝Problem Statement:
+
+In the world of finance, predicting good clients for credit card approval is a game-changer for banks. It's the key to reducing credit risk, minimizing defaults, and ensuring a healthier credit card portfolio. The result? Improved financial stability and profitability.
+
+
+
 🛠 Tools & Technologies
 
 SQL Server – Data storage & initial loading
