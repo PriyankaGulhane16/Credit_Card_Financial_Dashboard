@@ -238,6 +238,31 @@ Overall Activation Rate: 57.5%
 Overall Delinquent Rate: 6.06%
 
 
+Key Recommendations
+
+1. Leverage Year-End Spending Trends
+Since revenue and transactions increased significantly in Week 53, the bank should introduce seasonal campaigns and year-end promotions to capitalize on high customer spending periods.
+
+2. Improve Customer Activation
+With an activation rate of 57.5%, there is room for improvement. The bank can use welcome offers, cashback, or reward points to encourage newly approved customers to activate and use their credit cards.
+
+3. Focus on High-Revenue States
+Since Texas, New York, and California contribute 68% of revenue, the bank should run targeted marketing campaigns and partnerships in these regions to further boost card usage.
+
+4. Expand Premium Card Adoption
+Because Blue and Silver cards account for 93% of transactions, the bank can promote Gold or higher-tier cards to increase average spending and generate more interest revenue.
+
+5. Target Gender-Based Marketing
+Male customers contribute slightly higher revenue, but female customers also contribute significantly. The bank can design personalized offers or rewards programs to increase spending among both groups.
+
+6. Manage Credit Risk
+With a 6.06% delinquency rate, the bank should strengthen credit monitoring, payment reminders, and early risk detection models to reduce defaults.
+
+
+
+
+
+
 📊 Dashboard<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/fd2f0dfd-5a34-4332-b304-a1af58cecbe7" /> <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/d44e59b3-c169-44b9-ac19-ce3ff47febc4" />
 
 
