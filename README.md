@@ -238,7 +238,7 @@ Overall Activation Rate: 57.5%
 Overall Delinquent Rate: 6.06%
 
 
-Key Recommendations
+💡 Recommendations
 
 1. Leverage Year-End Spending Trends
 Since revenue and transactions increased significantly in Week 53, the bank should introduce seasonal campaigns and year-end promotions to capitalize on high customer spending periods.
